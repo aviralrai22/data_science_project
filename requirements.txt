@@ -1,0 +1,8 @@
+numpy
+pandas
+
+#write the command pip install -r requirements.txt 
+
+#-e. --> #this will directly trigger the setup.py file to install
+         # command pip install -r requirements.txt and this will also trigger the setup.py files
+         #remember to remove the -e. from the setup.py file
